@@ -28,7 +28,7 @@ public class Main : MonoBehaviour
     private readonly int LetterHeight = 23;
     //---------------------------------------------
 
-    public int verticalLetterSpacing = 1;
+    public int verticalLetterSpacing = 0;
     public int horizontalLineSpacing = 22;
 
     private int carretPositionX;
